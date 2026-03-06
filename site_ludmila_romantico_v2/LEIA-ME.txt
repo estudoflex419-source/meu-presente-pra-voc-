@@ -1,0 +1,23 @@
+COMO PUBLICAR NO GITHUB PAGES
+
+1. Extraia o ZIP.
+2. Entre na pasta site_ludmila_romantico_v2.
+3. Envie para a raiz do repositório estes arquivos e pastas:
+   - index.html
+   - style.css
+   - script.js
+   - assets/
+4. No GitHub vá em Settings > Pages.
+5. Em Source escolha Deploy from a branch.
+6. Em Branch escolha main e pasta /(root).
+7. Salve e aguarde alguns minutos.
+
+IMPORTANTE
+- Não envie apenas os arquivos soltos de dentro de assets. Envie a pasta assets completa.
+- A música está em assets/audio/que-sorte-a-nossa.mp3.
+- Os vídeos estão em assets/videos.
+- As fotos estão em assets/images.
+
+SOBRE A MÚSICA
+- Em navegadores modernos a música precisa de um clique do usuário para começar.
+- Por isso o site abre com a tela “Entrar com música”.
